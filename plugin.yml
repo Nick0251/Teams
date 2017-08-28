@@ -1,0 +1,9 @@
+main: me.nick.teams.Main
+name: Teams
+version: 1.0
+author: Nick & Joeleoli(I fucking love this guy)
+
+commands:
+  team:
+  t:
+  teams:
